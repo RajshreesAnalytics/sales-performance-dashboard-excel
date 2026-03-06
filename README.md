@@ -27,6 +27,5 @@ This project presents an interactive sales performance dashboard built using Mic
 ## Files
 - Excel Dashboard File
 - Dashboard Screenshot
-## Dashboard Preview 
-![Sales Dashboard]
-(Sales-dashboard-preview.png)
+## Dashboard Preview
+![Sales Dashboard](sales-dashboard-preview.png)
