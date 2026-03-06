@@ -83,3 +83,9 @@ Some insights identified from the analysis:
 ---
 
 ## Project Structure
+
+sales-performance-dashboard-excel/
+│
+├── sales-performance-dashboard-excel.xlsx
+├── sales-dashboard-preview.png
+└── README.md
