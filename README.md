@@ -71,14 +71,19 @@ Interactive **slicers and filters** allow users to explore the data dynamically.
 ![Sales Dashboard](sales-dashboard-preview.png)
 
 ---
-
 ## Key Insights
-Some insights identified from the analysis:
 
-- Certain regions contribute a significantly higher share of total revenue.
-- A small group of sales representatives generate a large portion of sales.
-- Specific product categories dominate overall revenue.
-- Seasonal trends impact monthly sales performance.
+Analysis of the dataset reveals several important insights:
+
+- Certain **product categories consistently outperform others** and contribute the largest share of overall revenue.
+- A limited number of **sales representatives generate a significant portion of total sales**, indicating performance concentration within the team.
+- **Monthly sales trends show fluctuations**, suggesting the presence of seasonal or demand-driven sales patterns.
+- Some **products contribute high revenue despite lower sales volume**, indicating higher pricing or value products.
+- A small group of **top-performing products drive a large share of total sales**, reflecting a typical Pareto distribution in business sales.
+- Customer purchase behavior indicates that **specific segments contribute more consistently to revenue**, making them key target groups for business growth.
+
+These insights help businesses focus their strategy on high-performing products, top sales representatives, and important customer segments.
+
 
 ---
 
